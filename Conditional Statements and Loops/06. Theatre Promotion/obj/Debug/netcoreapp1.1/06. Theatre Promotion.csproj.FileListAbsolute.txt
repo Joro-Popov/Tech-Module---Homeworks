@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\bin\Debug\netcoreapp1.1\06. Theatre Promotion.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\bin\Debug\netcoreapp1.1\06. Theatre Promotion.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\bin\Debug\netcoreapp1.1\06. Theatre Promotion.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\obj\Debug\netcoreapp1.1\06. Theatre Promotion.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\obj\Debug\netcoreapp1.1\06. Theatre Promotion.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\bin\Debug\netcoreapp1.1\06. Theatre Promotion.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\bin\Debug\netcoreapp1.1\06. Theatre Promotion.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\obj\Debug\netcoreapp1.1\06. Theatre Promotion.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\06. Theatre Promotion\obj\Debug\netcoreapp1.1\06. Theatre Promotion.pdb

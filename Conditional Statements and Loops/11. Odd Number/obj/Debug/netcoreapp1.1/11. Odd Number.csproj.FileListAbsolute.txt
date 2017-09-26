@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\bin\Debug\netcoreapp1.1\11. Odd Number.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\bin\Debug\netcoreapp1.1\11. Odd Number.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\bin\Debug\netcoreapp1.1\11. Odd Number.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\bin\Debug\netcoreapp1.1\11. Odd Number.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\bin\Debug\netcoreapp1.1\11. Odd Number.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\obj\Debug\netcoreapp1.1\11. Odd Number.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\obj\Debug\netcoreapp1.1\11. Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\obj\Debug\netcoreapp1.1\11. Odd Number.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\obj\Debug\netcoreapp1.1\11. Odd Number.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\11. Odd Number\obj\Debug\netcoreapp1.1\11. Odd Number.pdb

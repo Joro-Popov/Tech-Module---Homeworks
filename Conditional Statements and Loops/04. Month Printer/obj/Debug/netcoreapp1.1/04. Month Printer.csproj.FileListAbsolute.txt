@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\bin\Debug\netcoreapp1.1\04. Month Printer.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\bin\Debug\netcoreapp1.1\04. Month Printer.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\bin\Debug\netcoreapp1.1\04. Month Printer.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\bin\Debug\netcoreapp1.1\04. Month Printer.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\bin\Debug\netcoreapp1.1\04. Month Printer.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\obj\Debug\netcoreapp1.1\04. Month Printer.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\obj\Debug\netcoreapp1.1\04. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\obj\Debug\netcoreapp1.1\04. Month Printer.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\obj\Debug\netcoreapp1.1\04. Month Printer.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\04. Month Printer\obj\Debug\netcoreapp1.1\04. Month Printer.pdb

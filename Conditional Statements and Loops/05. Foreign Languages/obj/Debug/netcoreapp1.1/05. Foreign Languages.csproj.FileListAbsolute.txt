@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\netcoreapp1.1\05. Foreign Languages.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\netcoreapp1.1\05. Foreign Languages.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\netcoreapp1.1\05. Foreign Languages.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\netcoreapp1.1\05. Foreign Languages.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\bin\Debug\netcoreapp1.1\05. Foreign Languages.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\netcoreapp1.1\05. Foreign Languages.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\netcoreapp1.1\05. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\netcoreapp1.1\05. Foreign Languages.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\netcoreapp1.1\05. Foreign Languages.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\05. Foreign Languages\obj\Debug\netcoreapp1.1\05. Foreign Languages.pdb

@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\bin\Debug\netcoreapp1.1\03. Back in 30 Minutes.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\bin\Debug\netcoreapp1.1\03. Back in 30 Minutes.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\bin\Debug\netcoreapp1.1\03. Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\bin\Debug\netcoreapp1.1\03. Back in 30 Minutes.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\bin\Debug\netcoreapp1.1\03. Back in 30 Minutes.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\obj\Debug\netcoreapp1.1\03. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\obj\Debug\netcoreapp1.1\03. Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\obj\Debug\netcoreapp1.1\03. Back in 30 Minutes.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\03. Back in 30 Minutes\obj\Debug\netcoreapp1.1\03. Back in 30 Minutes.pdb

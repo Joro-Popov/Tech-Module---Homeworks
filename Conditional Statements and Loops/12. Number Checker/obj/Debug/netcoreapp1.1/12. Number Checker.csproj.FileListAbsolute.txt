@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\bin\Debug\netcoreapp1.1\12. Number Checker.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\bin\Debug\netcoreapp1.1\12. Number Checker.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\bin\Debug\netcoreapp1.1\12. Number Checker.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\bin\Debug\netcoreapp1.1\12. Number Checker.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\bin\Debug\netcoreapp1.1\12. Number Checker.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\obj\Debug\netcoreapp1.1\12. Number Checker.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\obj\Debug\netcoreapp1.1\12. Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\obj\Debug\netcoreapp1.1\12. Number Checker.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\obj\Debug\netcoreapp1.1\12. Number Checker.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\12. Number Checker\obj\Debug\netcoreapp1.1\12. Number Checker.pdb

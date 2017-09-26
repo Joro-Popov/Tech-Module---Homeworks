@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\netcoreapp1.1\10. Multiplication Table 2.0.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\netcoreapp1.1\10. Multiplication Table 2.0.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\netcoreapp1.1\10. Multiplication Table 2.0.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\netcoreapp1.1\10. Multiplication Table 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\bin\Debug\netcoreapp1.1\10. Multiplication Table 2.0.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\netcoreapp1.1\10. Multiplication Table 2.0.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\netcoreapp1.1\10. Multiplication Table 2.0.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\netcoreapp1.1\10. Multiplication Table 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\10. Multiplication Table 2.0\obj\Debug\netcoreapp1.1\10. Multiplication Table 2.0.pdb

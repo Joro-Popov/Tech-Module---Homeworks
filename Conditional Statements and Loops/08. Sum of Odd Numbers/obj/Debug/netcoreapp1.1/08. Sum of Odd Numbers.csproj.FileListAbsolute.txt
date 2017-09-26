@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\bin\Debug\netcoreapp1.1\08. Sum of Odd Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\bin\Debug\netcoreapp1.1\08. Sum of Odd Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\bin\Debug\netcoreapp1.1\08. Sum of Odd Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\bin\Debug\netcoreapp1.1\08. Sum of Odd Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\bin\Debug\netcoreapp1.1\08. Sum of Odd Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\obj\Debug\netcoreapp1.1\08. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\obj\Debug\netcoreapp1.1\08. Sum of Odd Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\obj\Debug\netcoreapp1.1\08. Sum of Odd Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\obj\Debug\netcoreapp1.1\08. Sum of Odd Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops\08. Sum of Odd Numbers\obj\Debug\netcoreapp1.1\08. Sum of Odd Numbers.csprojResolveAssemblyReference.cache
