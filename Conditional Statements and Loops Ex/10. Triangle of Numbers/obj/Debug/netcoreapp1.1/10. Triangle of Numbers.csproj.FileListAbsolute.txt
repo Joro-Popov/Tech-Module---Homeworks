@@ -1,0 +1,18 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\bin\Debug\netcoreapp1.1\10. Triangle of Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\10. Triangle of Numbers\obj\Debug\netcoreapp1.1\10. Triangle of Numbers.pdb

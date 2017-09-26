@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\bin\Debug\netcoreapp1.1\02. Choose a Drink 2.0.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\02. Choose a Drink 2.0\obj\Debug\netcoreapp1.1\02. Choose a Drink 2.0.pdb

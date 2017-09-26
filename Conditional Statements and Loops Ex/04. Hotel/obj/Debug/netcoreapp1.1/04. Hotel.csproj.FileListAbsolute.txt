@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\bin\Debug\netcoreapp1.1\04. Hotel.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\04. Hotel\obj\Debug\netcoreapp1.1\04. Hotel.pdb

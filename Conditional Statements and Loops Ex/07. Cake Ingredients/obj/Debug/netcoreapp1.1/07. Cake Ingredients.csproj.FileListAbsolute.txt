@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\bin\Debug\netcoreapp1.1\07. Cake Ingredients.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\07. Cake Ingredients\obj\Debug\netcoreapp1.1\07. Cake Ingredients.pdb

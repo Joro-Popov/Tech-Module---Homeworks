@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\bin\Debug\netcoreapp1.1\08. Calories Counter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\08. Calories Counter\obj\Debug\netcoreapp1.1\08. Calories Counter.pdb

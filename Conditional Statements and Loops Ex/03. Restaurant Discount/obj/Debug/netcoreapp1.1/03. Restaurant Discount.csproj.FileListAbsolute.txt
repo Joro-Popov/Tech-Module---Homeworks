@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\bin\Debug\netcoreapp1.1\03. Restaurant Discount.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\03. Restaurant Discount\obj\Debug\netcoreapp1.1\03. Restaurant Discount.pdb

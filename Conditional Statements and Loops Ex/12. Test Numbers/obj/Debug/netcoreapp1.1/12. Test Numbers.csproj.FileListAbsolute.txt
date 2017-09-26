@@ -1,0 +1,18 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\bin\Debug\netcoreapp1.1\12. Test Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\12. Test Numbers\obj\Debug\netcoreapp1.1\12. Test Numbers.pdb

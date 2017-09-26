@@ -1,0 +1,18 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\bin\Debug\netcoreapp1.1\14. Magic Letter.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\14. Magic Letter\obj\Debug\netcoreapp1.1\14. Magic Letter.pdb

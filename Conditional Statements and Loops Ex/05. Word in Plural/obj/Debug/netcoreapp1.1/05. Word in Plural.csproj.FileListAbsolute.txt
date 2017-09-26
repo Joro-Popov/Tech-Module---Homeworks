@@ -1,0 +1,20 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\bin\Debug\netcoreapp1.1\05. Word in Plural.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\05. Word in Plural\obj\Debug\netcoreapp1.1\05. Word in Plural.pdb

@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\bin\Debug\netcoreapp1.1\15. Neighbour Wars.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\bin\Debug\netcoreapp1.1\15. Neighbour Wars.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\bin\Debug\netcoreapp1.1\15. Neighbour Wars.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\bin\Debug\netcoreapp1.1\15. Neighbour Wars.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\bin\Debug\netcoreapp1.1\15. Neighbour Wars.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\obj\Debug\netcoreapp1.1\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\obj\Debug\netcoreapp1.1\15. Neighbour Wars.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\obj\Debug\netcoreapp1.1\15. Neighbour Wars.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\obj\Debug\netcoreapp1.1\15. Neighbour Wars.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Conditional Statements and Loops Ex\15. Neighbour Wars\obj\Debug\netcoreapp1.1\15. Neighbour Wars.csprojResolveAssemblyReference.cache
