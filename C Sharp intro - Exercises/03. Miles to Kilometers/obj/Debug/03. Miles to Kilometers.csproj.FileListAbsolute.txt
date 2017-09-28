@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\obj\Debug\03. Miles to Kilometers.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\obj\Debug\03. Miles to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

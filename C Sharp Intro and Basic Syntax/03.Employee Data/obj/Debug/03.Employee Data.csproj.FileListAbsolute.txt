@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.exe.config
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\bin\Debug\03.Employee Data.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\obj\Debug\03.Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\obj\Debug\03.Employee Data.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp Intro and Basic Syntax\03.Employee Data\obj\Debug\03.Employee Data.pdb

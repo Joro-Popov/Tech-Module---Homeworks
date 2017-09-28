@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\bin\Debug\netcoreapp1.1\04. Photo Gallery.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\bin\Debug\netcoreapp1.1\04. Photo Gallery.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\bin\Debug\netcoreapp1.1\04. Photo Gallery.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\bin\Debug\netcoreapp1.1\04. Photo Gallery.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\bin\Debug\netcoreapp1.1\04. Photo Gallery.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\obj\Debug\netcoreapp1.1\04. Photo Gallery.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\obj\Debug\netcoreapp1.1\04. Photo Gallery.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\obj\Debug\netcoreapp1.1\04. Photo Gallery.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\04. Photo Gallery\obj\Debug\netcoreapp1.1\04. Photo Gallery.pdb

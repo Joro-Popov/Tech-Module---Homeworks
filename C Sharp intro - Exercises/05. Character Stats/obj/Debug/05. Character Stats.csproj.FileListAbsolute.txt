@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\obj\Debug\05. Character Stats.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\obj\Debug\05. Character Stats.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb

@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\bin\Debug\netcoreapp1.1\01. X.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\bin\Debug\netcoreapp1.1\01. X.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\bin\Debug\netcoreapp1.1\01. X.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\bin\Debug\netcoreapp1.1\01. X.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\bin\Debug\netcoreapp1.1\01. X.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\obj\Debug\netcoreapp1.1\01. X.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\obj\Debug\netcoreapp1.1\01. X.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\obj\Debug\netcoreapp1.1\01. X.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\obj\Debug\netcoreapp1.1\01. X.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\01. X\obj\Debug\netcoreapp1.1\01. X.pdb

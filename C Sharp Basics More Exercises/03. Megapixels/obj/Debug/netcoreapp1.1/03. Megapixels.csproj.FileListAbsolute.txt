@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\bin\Debug\netcoreapp1.1\03. Megapixels.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\bin\Debug\netcoreapp1.1\03. Megapixels.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\bin\Debug\netcoreapp1.1\03. Megapixels.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\bin\Debug\netcoreapp1.1\03. Megapixels.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\bin\Debug\netcoreapp1.1\03. Megapixels.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\obj\Debug\netcoreapp1.1\03. Megapixels.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\obj\Debug\netcoreapp1.1\03. Megapixels.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\obj\Debug\netcoreapp1.1\03. Megapixels.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\obj\Debug\netcoreapp1.1\03. Megapixels.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\03. Megapixels\obj\Debug\netcoreapp1.1\03. Megapixels.pdb

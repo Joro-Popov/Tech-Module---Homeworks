@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\bin\Debug\netcoreapp1.1\02. Vapor Store.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\bin\Debug\netcoreapp1.1\02. Vapor Store.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\bin\Debug\netcoreapp1.1\02. Vapor Store.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\bin\Debug\netcoreapp1.1\02. Vapor Store.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\bin\Debug\netcoreapp1.1\02. Vapor Store.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\obj\Debug\netcoreapp1.1\02. Vapor Store.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\obj\Debug\netcoreapp1.1\02. Vapor Store.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\obj\Debug\netcoreapp1.1\02. Vapor Store.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\obj\Debug\netcoreapp1.1\02. Vapor Store.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\C Sharp Basics More Exercises\02. Vapor Store\obj\Debug\netcoreapp1.1\02. Vapor Store.pdb

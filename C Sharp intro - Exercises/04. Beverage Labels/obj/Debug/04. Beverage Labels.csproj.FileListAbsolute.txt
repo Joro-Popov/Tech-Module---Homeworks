@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\Projects\C Sharp intro - Exercises\04. Beverage Labels\obj\Debug\04. Beverage Labels.csprojResolveAssemblyReference.cache
