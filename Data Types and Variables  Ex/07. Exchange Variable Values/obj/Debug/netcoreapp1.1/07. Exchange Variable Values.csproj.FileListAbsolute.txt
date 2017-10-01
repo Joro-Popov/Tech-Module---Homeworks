@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\bin\Debug\netcoreapp1.1\07. Exchange Variable Values.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\bin\Debug\netcoreapp1.1\07. Exchange Variable Values.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\bin\Debug\netcoreapp1.1\07. Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\bin\Debug\netcoreapp1.1\07. Exchange Variable Values.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\bin\Debug\netcoreapp1.1\07. Exchange Variable Values.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\obj\Debug\netcoreapp1.1\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\obj\Debug\netcoreapp1.1\07. Exchange Variable Values.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\obj\Debug\netcoreapp1.1\07. Exchange Variable Values.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\07. Exchange Variable Values\obj\Debug\netcoreapp1.1\07. Exchange Variable Values.pdb

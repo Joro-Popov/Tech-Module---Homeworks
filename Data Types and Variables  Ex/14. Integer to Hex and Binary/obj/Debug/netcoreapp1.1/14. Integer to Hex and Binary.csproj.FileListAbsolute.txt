@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\bin\Debug\netcoreapp1.1\14. Integer to Hex and Binary.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\bin\Debug\netcoreapp1.1\14. Integer to Hex and Binary.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\bin\Debug\netcoreapp1.1\14. Integer to Hex and Binary.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\bin\Debug\netcoreapp1.1\14. Integer to Hex and Binary.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\bin\Debug\netcoreapp1.1\14. Integer to Hex and Binary.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\obj\Debug\netcoreapp1.1\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\obj\Debug\netcoreapp1.1\14. Integer to Hex and Binary.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\obj\Debug\netcoreapp1.1\14. Integer to Hex and Binary.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\14. Integer to Hex and Binary\obj\Debug\netcoreapp1.1\14. Integer to Hex and Binary.pdb

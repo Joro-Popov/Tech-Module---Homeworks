@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\bin\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\bin\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\bin\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\bin\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\bin\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\obj\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\obj\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\obj\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\17. Print Part Of ASCII Table\obj\Debug\netcoreapp1.1\17. Print Part Of ASCII Table.pdb

@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\bin\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\03. Exact Sum of Real Numbers\obj\Debug\netcoreapp1.1\03. Exact Sum of Real Numbers.pdb

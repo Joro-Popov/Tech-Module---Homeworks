@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp1.1\02. Circle Area (Precision 12).deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp1.1\02. Circle Area (Precision 12).runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp1.1\02. Circle Area (Precision 12).runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp1.1\02. Circle Area (Precision 12).dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\bin\Debug\netcoreapp1.1\02. Circle Area (Precision 12).pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp1.1\02. Circle Area (Precision 12).csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp1.1\02. Circle Area (Precision 12).csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp1.1\02. Circle Area (Precision 12).AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp1.1\02. Circle Area (Precision 12).dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\02. Circle Area (Precision 12)\obj\Debug\netcoreapp1.1\02. Circle Area (Precision 12).pdb

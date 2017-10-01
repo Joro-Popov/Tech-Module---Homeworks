@@ -1,0 +1,9 @@
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\bin\Debug\netcoreapp1.1\03. Water Overflow.deps.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\bin\Debug\netcoreapp1.1\03. Water Overflow.runtimeconfig.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\bin\Debug\netcoreapp1.1\03. Water Overflow.runtimeconfig.dev.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\bin\Debug\netcoreapp1.1\03. Water Overflow.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\bin\Debug\netcoreapp1.1\03. Water Overflow.pdb
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\obj\Debug\netcoreapp1.1\03. Water Overflow.csproj.CoreCompileInputs.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\obj\Debug\netcoreapp1.1\03. Water Overflow.AssemblyInfo.cs
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\obj\Debug\netcoreapp1.1\03. Water Overflow.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\03. Water Overflow\obj\Debug\netcoreapp1.1\03. Water Overflow.pdb

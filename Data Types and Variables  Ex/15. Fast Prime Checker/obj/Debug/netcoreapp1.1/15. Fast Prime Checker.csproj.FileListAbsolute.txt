@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\bin\Debug\netcoreapp1.1\15. Fast Prime Checker.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\bin\Debug\netcoreapp1.1\15. Fast Prime Checker.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\bin\Debug\netcoreapp1.1\15. Fast Prime Checker.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\bin\Debug\netcoreapp1.1\15. Fast Prime Checker.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\bin\Debug\netcoreapp1.1\15. Fast Prime Checker.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\obj\Debug\netcoreapp1.1\15. Fast Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\obj\Debug\netcoreapp1.1\15. Fast Prime Checker.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\obj\Debug\netcoreapp1.1\15. Fast Prime Checker.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\15. Fast Prime Checker\obj\Debug\netcoreapp1.1\15. Fast Prime Checker.pdb

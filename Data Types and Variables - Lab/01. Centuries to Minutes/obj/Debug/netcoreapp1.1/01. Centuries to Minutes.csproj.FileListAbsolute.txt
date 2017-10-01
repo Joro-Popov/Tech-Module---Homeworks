@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\netcoreapp1.1\01. Centuries to Minutes.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\netcoreapp1.1\01. Centuries to Minutes.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\netcoreapp1.1\01. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\netcoreapp1.1\01. Centuries to Minutes.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\bin\Debug\netcoreapp1.1\01. Centuries to Minutes.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\obj\Debug\netcoreapp1.1\01. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\obj\Debug\netcoreapp1.1\01. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\obj\Debug\netcoreapp1.1\01. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\obj\Debug\netcoreapp1.1\01. Centuries to Minutes.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\01. Centuries to Minutes\obj\Debug\netcoreapp1.1\01. Centuries to Minutes.pdb

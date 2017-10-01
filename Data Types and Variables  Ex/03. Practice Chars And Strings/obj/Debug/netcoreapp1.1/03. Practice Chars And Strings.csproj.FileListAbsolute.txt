@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\bin\Debug\netcoreapp1.1\03. Practice Chars And Strings.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\bin\Debug\netcoreapp1.1\03. Practice Chars And Strings.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\bin\Debug\netcoreapp1.1\03. Practice Chars And Strings.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\bin\Debug\netcoreapp1.1\03. Practice Chars And Strings.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\bin\Debug\netcoreapp1.1\03. Practice Chars And Strings.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\obj\Debug\netcoreapp1.1\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\obj\Debug\netcoreapp1.1\03. Practice Chars And Strings.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\obj\Debug\netcoreapp1.1\03. Practice Chars And Strings.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\03. Practice Chars And Strings\obj\Debug\netcoreapp1.1\03. Practice Chars And Strings.pdb

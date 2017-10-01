@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp1.1\05. Special Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp1.1\05. Special Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp1.1\05. Special Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp1.1\05. Special Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\bin\Debug\netcoreapp1.1\05. Special Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp1.1\05. Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp1.1\05. Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp1.1\05. Special Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp1.1\05. Special Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\05. Special Numbers\obj\Debug\netcoreapp1.1\05. Special Numbers.pdb

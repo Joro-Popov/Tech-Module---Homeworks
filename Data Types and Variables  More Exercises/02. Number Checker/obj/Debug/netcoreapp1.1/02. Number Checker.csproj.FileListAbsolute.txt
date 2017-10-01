@@ -1,0 +1,9 @@
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\bin\Debug\netcoreapp1.1\02. Number Checker.deps.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\bin\Debug\netcoreapp1.1\02. Number Checker.runtimeconfig.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\bin\Debug\netcoreapp1.1\02. Number Checker.runtimeconfig.dev.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\bin\Debug\netcoreapp1.1\02. Number Checker.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\bin\Debug\netcoreapp1.1\02. Number Checker.pdb
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\obj\Debug\netcoreapp1.1\02. Number Checker.csproj.CoreCompileInputs.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\obj\Debug\netcoreapp1.1\02. Number Checker.AssemblyInfo.cs
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\obj\Debug\netcoreapp1.1\02. Number Checker.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\02. Number Checker\obj\Debug\netcoreapp1.1\02. Number Checker.pdb

@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\bin\Debug\netcoreapp1.1\16. Comparing floats.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\bin\Debug\netcoreapp1.1\16. Comparing floats.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\bin\Debug\netcoreapp1.1\16. Comparing floats.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\bin\Debug\netcoreapp1.1\16. Comparing floats.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\bin\Debug\netcoreapp1.1\16. Comparing floats.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\obj\Debug\netcoreapp1.1\16. Comparing floats.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\obj\Debug\netcoreapp1.1\16. Comparing floats.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\obj\Debug\netcoreapp1.1\16. Comparing floats.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\obj\Debug\netcoreapp1.1\16. Comparing floats.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\16. Comparing floats\obj\Debug\netcoreapp1.1\16. Comparing floats.pdb

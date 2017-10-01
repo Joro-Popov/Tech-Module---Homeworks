@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp1.1\04. Elevator.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp1.1\04. Elevator.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp1.1\04. Elevator.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp1.1\04. Elevator.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\bin\Debug\netcoreapp1.1\04. Elevator.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp1.1\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp1.1\04. Elevator.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp1.1\04. Elevator.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\04. Elevator\obj\Debug\netcoreapp1.1\04. Elevator.pdb

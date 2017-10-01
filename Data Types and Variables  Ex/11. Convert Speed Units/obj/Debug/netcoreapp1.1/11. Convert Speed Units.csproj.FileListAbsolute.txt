@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\bin\Debug\netcoreapp1.1\11. Convert Speed Units.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\bin\Debug\netcoreapp1.1\11. Convert Speed Units.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\bin\Debug\netcoreapp1.1\11. Convert Speed Units.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\bin\Debug\netcoreapp1.1\11. Convert Speed Units.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\bin\Debug\netcoreapp1.1\11. Convert Speed Units.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\obj\Debug\netcoreapp1.1\11. Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\obj\Debug\netcoreapp1.1\11. Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\obj\Debug\netcoreapp1.1\11. Convert Speed Units.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\obj\Debug\netcoreapp1.1\11. Convert Speed Units.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\11. Convert Speed Units\obj\Debug\netcoreapp1.1\11. Convert Speed Units.pdb

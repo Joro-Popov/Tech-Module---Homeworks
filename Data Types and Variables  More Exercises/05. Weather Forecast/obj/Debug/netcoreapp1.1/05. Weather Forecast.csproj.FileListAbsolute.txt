@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\bin\Debug\netcoreapp1.1\05. Weather Forecast.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\bin\Debug\netcoreapp1.1\05. Weather Forecast.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\bin\Debug\netcoreapp1.1\05. Weather Forecast.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\bin\Debug\netcoreapp1.1\05. Weather Forecast.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\bin\Debug\netcoreapp1.1\05. Weather Forecast.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\obj\Debug\netcoreapp1.1\05. Weather Forecast.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\obj\Debug\netcoreapp1.1\05. Weather Forecast.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\obj\Debug\netcoreapp1.1\05. Weather Forecast.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\obj\Debug\netcoreapp1.1\05. Weather Forecast.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\05. Weather Forecast\obj\Debug\netcoreapp1.1\05. Weather Forecast.pdb

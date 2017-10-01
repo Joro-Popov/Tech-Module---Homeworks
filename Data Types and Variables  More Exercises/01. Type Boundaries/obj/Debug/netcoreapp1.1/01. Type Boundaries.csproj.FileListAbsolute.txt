@@ -1,0 +1,10 @@
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\bin\Debug\netcoreapp1.1\01. Type Boundaries.deps.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\bin\Debug\netcoreapp1.1\01. Type Boundaries.runtimeconfig.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\bin\Debug\netcoreapp1.1\01. Type Boundaries.runtimeconfig.dev.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\bin\Debug\netcoreapp1.1\01. Type Boundaries.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\bin\Debug\netcoreapp1.1\01. Type Boundaries.pdb
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\obj\Debug\netcoreapp1.1\01. Type Boundaries.csprojResolveAssemblyReference.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\obj\Debug\netcoreapp1.1\01. Type Boundaries.csproj.CoreCompileInputs.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\obj\Debug\netcoreapp1.1\01. Type Boundaries.AssemblyInfo.cs
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\obj\Debug\netcoreapp1.1\01. Type Boundaries.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\01. Type Boundaries\obj\Debug\netcoreapp1.1\01. Type Boundaries.pdb

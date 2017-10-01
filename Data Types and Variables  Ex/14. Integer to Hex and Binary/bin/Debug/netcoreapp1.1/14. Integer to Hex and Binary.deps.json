@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "14. integer to hex and binary/1.0.0": {
+        "runtime": {
+          "14. Integer to Hex and Binary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "14. integer to hex and binary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

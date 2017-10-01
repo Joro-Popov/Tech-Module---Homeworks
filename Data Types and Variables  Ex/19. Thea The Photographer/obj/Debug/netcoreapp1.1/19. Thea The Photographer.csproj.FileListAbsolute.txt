@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\bin\Debug\netcoreapp1.1\19. Thea The Photographer.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\bin\Debug\netcoreapp1.1\19. Thea The Photographer.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\bin\Debug\netcoreapp1.1\19. Thea The Photographer.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\bin\Debug\netcoreapp1.1\19. Thea The Photographer.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\bin\Debug\netcoreapp1.1\19. Thea The Photographer.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\obj\Debug\netcoreapp1.1\19. Thea The Photographer.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\obj\Debug\netcoreapp1.1\19. Thea The Photographer.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\obj\Debug\netcoreapp1.1\19. Thea The Photographer.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\obj\Debug\netcoreapp1.1\19. Thea The Photographer.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\19. Thea The Photographer\obj\Debug\netcoreapp1.1\19. Thea The Photographer.csprojResolveAssemblyReference.cache

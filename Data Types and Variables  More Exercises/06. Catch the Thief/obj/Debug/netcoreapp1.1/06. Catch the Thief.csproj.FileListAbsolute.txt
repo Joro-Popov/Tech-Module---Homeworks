@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\bin\Debug\netcoreapp1.1\06. Catch the Thief.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\bin\Debug\netcoreapp1.1\06. Catch the Thief.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\bin\Debug\netcoreapp1.1\06. Catch the Thief.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\bin\Debug\netcoreapp1.1\06. Catch the Thief.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\bin\Debug\netcoreapp1.1\06. Catch the Thief.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\obj\Debug\netcoreapp1.1\06. Catch the Thief.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\obj\Debug\netcoreapp1.1\06. Catch the Thief.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\obj\Debug\netcoreapp1.1\06. Catch the Thief.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\obj\Debug\netcoreapp1.1\06. Catch the Thief.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\06. Catch the Thief\obj\Debug\netcoreapp1.1\06. Catch the Thief.pdb

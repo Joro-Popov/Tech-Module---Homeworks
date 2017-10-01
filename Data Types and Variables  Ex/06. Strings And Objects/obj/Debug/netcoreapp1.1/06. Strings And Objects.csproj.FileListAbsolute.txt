@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\bin\Debug\netcoreapp1.1\06. Strings And Objects.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\bin\Debug\netcoreapp1.1\06. Strings And Objects.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\bin\Debug\netcoreapp1.1\06. Strings And Objects.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\bin\Debug\netcoreapp1.1\06. Strings And Objects.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\bin\Debug\netcoreapp1.1\06. Strings And Objects.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\obj\Debug\netcoreapp1.1\06. Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\obj\Debug\netcoreapp1.1\06. Strings And Objects.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\obj\Debug\netcoreapp1.1\06. Strings And Objects.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\06. Strings And Objects\obj\Debug\netcoreapp1.1\06. Strings And Objects.pdb

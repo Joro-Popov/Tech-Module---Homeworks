@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\bin\Debug\netcoreapp1.1\13. Vowel or Digit.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\bin\Debug\netcoreapp1.1\13. Vowel or Digit.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\bin\Debug\netcoreapp1.1\13. Vowel or Digit.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\bin\Debug\netcoreapp1.1\13. Vowel or Digit.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\bin\Debug\netcoreapp1.1\13. Vowel or Digit.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\obj\Debug\netcoreapp1.1\13. Vowel or Digit.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\obj\Debug\netcoreapp1.1\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\obj\Debug\netcoreapp1.1\13. Vowel or Digit.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\obj\Debug\netcoreapp1.1\13. Vowel or Digit.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\13. Vowel or Digit\obj\Debug\netcoreapp1.1\13. Vowel or Digit.pdb

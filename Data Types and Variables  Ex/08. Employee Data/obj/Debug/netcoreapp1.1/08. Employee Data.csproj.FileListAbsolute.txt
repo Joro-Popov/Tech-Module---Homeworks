@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\bin\Debug\netcoreapp1.1\08. Employee Data.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\bin\Debug\netcoreapp1.1\08. Employee Data.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\bin\Debug\netcoreapp1.1\08. Employee Data.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\bin\Debug\netcoreapp1.1\08. Employee Data.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\bin\Debug\netcoreapp1.1\08. Employee Data.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\obj\Debug\netcoreapp1.1\08. Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\obj\Debug\netcoreapp1.1\08. Employee Data.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\obj\Debug\netcoreapp1.1\08. Employee Data.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\08. Employee Data\obj\Debug\netcoreapp1.1\08. Employee Data.pdb

@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\bin\Debug\netcoreapp1.1\09. Reversed chars.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\bin\Debug\netcoreapp1.1\09. Reversed chars.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\bin\Debug\netcoreapp1.1\09. Reversed chars.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\bin\Debug\netcoreapp1.1\09. Reversed chars.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\bin\Debug\netcoreapp1.1\09. Reversed chars.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\obj\Debug\netcoreapp1.1\09. Reversed chars.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\obj\Debug\netcoreapp1.1\09. Reversed chars.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\obj\Debug\netcoreapp1.1\09. Reversed chars.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\09. Reversed chars\obj\Debug\netcoreapp1.1\09. Reversed chars.pdb

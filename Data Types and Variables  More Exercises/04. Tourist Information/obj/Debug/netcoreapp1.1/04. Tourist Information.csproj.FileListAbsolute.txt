@@ -1,0 +1,20 @@
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.deps.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.runtimeconfig.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.runtimeconfig.dev.json
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.pdb
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.csprojResolveAssemblyReference.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.csproj.CoreCompileInputs.cache
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.AssemblyInfo.cs
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.dll
+c:\users\joro\source\repos\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\bin\Debug\netcoreapp1.1\04. Tourist Information.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  More Exercises\04. Tourist Information\obj\Debug\netcoreapp1.1\04. Tourist Information.pdb

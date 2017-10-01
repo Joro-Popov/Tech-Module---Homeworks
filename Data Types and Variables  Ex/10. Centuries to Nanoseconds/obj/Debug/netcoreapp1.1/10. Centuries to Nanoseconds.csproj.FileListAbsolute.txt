@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\bin\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\bin\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\bin\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\bin\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\bin\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\obj\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\obj\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\obj\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\10. Centuries to Nanoseconds\obj\Debug\netcoreapp1.1\10. Centuries to Nanoseconds.pdb

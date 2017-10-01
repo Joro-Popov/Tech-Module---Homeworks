@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\netcoreapp1.1\09. Refactor Special Numbers.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\netcoreapp1.1\09. Refactor Special Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\netcoreapp1.1\09. Refactor Special Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\netcoreapp1.1\09. Refactor Special Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\bin\Debug\netcoreapp1.1\09. Refactor Special Numbers.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\netcoreapp1.1\09. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\netcoreapp1.1\09. Refactor Special Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\netcoreapp1.1\09. Refactor Special Numbers.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\09. Refactor Special Numbers\obj\Debug\netcoreapp1.1\09. Refactor Special Numbers.pdb

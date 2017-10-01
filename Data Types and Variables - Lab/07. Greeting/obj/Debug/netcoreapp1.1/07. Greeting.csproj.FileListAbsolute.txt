@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\bin\Debug\netcoreapp1.1\07. Greeting.deps.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\bin\Debug\netcoreapp1.1\07. Greeting.runtimeconfig.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\bin\Debug\netcoreapp1.1\07. Greeting.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\bin\Debug\netcoreapp1.1\07. Greeting.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\bin\Debug\netcoreapp1.1\07. Greeting.pdb
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\obj\Debug\netcoreapp1.1\07. Greeting.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\obj\Debug\netcoreapp1.1\07. Greeting.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\obj\Debug\netcoreapp1.1\07. Greeting.dll
+C:\Users\JORO\Desktop\Visual Studio\Programming Fundamentals\C# Projects\Data Types and Variables - Lab\07. Greeting\obj\Debug\netcoreapp1.1\07. Greeting.pdb

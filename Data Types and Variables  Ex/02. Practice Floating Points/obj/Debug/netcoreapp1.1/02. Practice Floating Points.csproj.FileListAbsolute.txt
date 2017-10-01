@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\bin\Debug\netcoreapp1.1\02. Practice Floating Points.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\bin\Debug\netcoreapp1.1\02. Practice Floating Points.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\bin\Debug\netcoreapp1.1\02. Practice Floating Points.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\bin\Debug\netcoreapp1.1\02. Practice Floating Points.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\bin\Debug\netcoreapp1.1\02. Practice Floating Points.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\obj\Debug\netcoreapp1.1\02. Practice Floating Points.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\obj\Debug\netcoreapp1.1\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\obj\Debug\netcoreapp1.1\02. Practice Floating Points.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\obj\Debug\netcoreapp1.1\02. Practice Floating Points.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Data Types and Variables  Ex\02. Practice Floating Points\obj\Debug\netcoreapp1.1\02. Practice Floating Points.pdb
