@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp1.1\06. Calculate Triangle Area.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp1.1\06. Calculate Triangle Area.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp1.1\06. Calculate Triangle Area.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp1.1\06. Calculate Triangle Area.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\bin\Debug\netcoreapp1.1\06. Calculate Triangle Area.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp1.1\06. Calculate Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp1.1\06. Calculate Triangle Area.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp1.1\06. Calculate Triangle Area.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\06. Calculate Triangle Area\obj\Debug\netcoreapp1.1\06. Calculate Triangle Area.pdb

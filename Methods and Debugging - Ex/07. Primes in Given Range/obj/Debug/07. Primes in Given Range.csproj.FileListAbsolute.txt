@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\bin\Debug\_07.Primes_in_Given_Range.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\obj\Debug\07. Primes in Given Range.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\07. Primes in Given Range\obj\Debug\_07.Primes_in_Given_Range.pdb

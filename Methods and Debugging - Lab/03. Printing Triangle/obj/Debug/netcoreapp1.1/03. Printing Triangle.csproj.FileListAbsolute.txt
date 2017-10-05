@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\netcoreapp1.1\03. Printing Triangle.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\netcoreapp1.1\03. Printing Triangle.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\netcoreapp1.1\03. Printing Triangle.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\netcoreapp1.1\03. Printing Triangle.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\bin\Debug\netcoreapp1.1\03. Printing Triangle.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\netcoreapp1.1\03. Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\netcoreapp1.1\03. Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\netcoreapp1.1\03. Printing Triangle.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\netcoreapp1.1\03. Printing Triangle.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\03. Printing Triangle\obj\Debug\netcoreapp1.1\03. Printing Triangle.pdb

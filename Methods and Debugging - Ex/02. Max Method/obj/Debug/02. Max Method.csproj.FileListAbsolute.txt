@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\bin\Debug\_02.Max_Method.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\bin\Debug\_02.Max_Method.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\bin\Debug\_02.Max_Method.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\obj\Debug\02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\obj\Debug\_02.Max_Method.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\02. Max Method\obj\Debug\_02.Max_Method.pdb

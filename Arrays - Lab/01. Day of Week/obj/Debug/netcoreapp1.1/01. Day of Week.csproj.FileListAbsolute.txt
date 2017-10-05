@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp1.1\01. Day of Week.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp1.1\01. Day of Week.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp1.1\01. Day of Week.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp1.1\01. Day of Week.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\bin\Debug\netcoreapp1.1\01. Day of Week.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp1.1\01. Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp1.1\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp1.1\01. Day of Week.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp1.1\01. Day of Week.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\01. Day of Week\obj\Debug\netcoreapp1.1\01. Day of Week.pdb

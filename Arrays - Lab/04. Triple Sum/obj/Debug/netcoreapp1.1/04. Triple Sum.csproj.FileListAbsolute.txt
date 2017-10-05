@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp1.1\04. Triple Sum.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp1.1\04. Triple Sum.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp1.1\04. Triple Sum.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp1.1\04. Triple Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\bin\Debug\netcoreapp1.1\04. Triple Sum.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp1.1\04. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp1.1\04. Triple Sum.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp1.1\04. Triple Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\04. Triple Sum\obj\Debug\netcoreapp1.1\04. Triple Sum.pdb

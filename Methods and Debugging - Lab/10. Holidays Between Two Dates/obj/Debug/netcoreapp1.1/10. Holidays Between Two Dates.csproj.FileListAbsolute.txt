@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp1.1\10. Holidays Between Two Dates.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp1.1\10. Holidays Between Two Dates.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp1.1\10. Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp1.1\10. Holidays Between Two Dates.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\bin\Debug\netcoreapp1.1\10. Holidays Between Two Dates.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp1.1\10. Holidays Between Two Dates.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp1.1\10. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp1.1\10. Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp1.1\10. Holidays Between Two Dates.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\10. Holidays Between Two Dates\obj\Debug\netcoreapp1.1\10. Holidays Between Two Dates.pdb

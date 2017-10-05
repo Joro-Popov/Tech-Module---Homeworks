@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\bin\Debug\_05.Fibonacci_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\obj\Debug\05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Ex\05. Fibonacci Numbers\obj\Debug\_05.Fibonacci_Numbers.pdb

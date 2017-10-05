@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp1.1\08. Condense Array to Number.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp1.1\08. Condense Array to Number.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp1.1\08. Condense Array to Number.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp1.1\08. Condense Array to Number.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\bin\Debug\netcoreapp1.1\08. Condense Array to Number.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp1.1\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp1.1\08. Condense Array to Number.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp1.1\08. Condense Array to Number.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\08. Condense Array to Number\obj\Debug\netcoreapp1.1\08. Condense Array to Number.pdb

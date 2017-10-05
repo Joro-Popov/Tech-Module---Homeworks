@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\netcoreapp1.1\01. Blank Receipt.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\netcoreapp1.1\01. Blank Receipt.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\netcoreapp1.1\01. Blank Receipt.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\netcoreapp1.1\01. Blank Receipt.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\bin\Debug\netcoreapp1.1\01. Blank Receipt.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\netcoreapp1.1\01. Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\netcoreapp1.1\01. Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\netcoreapp1.1\01. Blank Receipt.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\netcoreapp1.1\01. Blank Receipt.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\01. Blank Receipt\obj\Debug\netcoreapp1.1\01. Blank Receipt.pdb

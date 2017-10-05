@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp1.1\05. Rounding Numbers.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp1.1\05. Rounding Numbers.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp1.1\05. Rounding Numbers.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp1.1\05. Rounding Numbers.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\bin\Debug\netcoreapp1.1\05. Rounding Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp1.1\05. Rounding Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp1.1\05. Rounding Numbers.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp1.1\05. Rounding Numbers.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\05. Rounding Numbers\obj\Debug\netcoreapp1.1\05. Rounding Numbers.pdb

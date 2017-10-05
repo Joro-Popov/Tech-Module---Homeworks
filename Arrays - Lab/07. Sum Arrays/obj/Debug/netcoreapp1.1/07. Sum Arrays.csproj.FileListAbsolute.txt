@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\bin\Debug\netcoreapp1.1\07. Sum Arrays.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\bin\Debug\netcoreapp1.1\07. Sum Arrays.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\bin\Debug\netcoreapp1.1\07. Sum Arrays.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\bin\Debug\netcoreapp1.1\07. Sum Arrays.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\bin\Debug\netcoreapp1.1\07. Sum Arrays.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\obj\Debug\netcoreapp1.1\07. Sum Arrays.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\obj\Debug\netcoreapp1.1\07. Sum Arrays.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\obj\Debug\netcoreapp1.1\07. Sum Arrays.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\obj\Debug\netcoreapp1.1\07. Sum Arrays.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\07. Sum Arrays\obj\Debug\netcoreapp1.1\07. Sum Arrays.csprojResolveAssemblyReference.cache

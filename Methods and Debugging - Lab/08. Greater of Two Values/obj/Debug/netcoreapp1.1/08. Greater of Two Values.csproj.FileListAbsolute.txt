@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\bin\Debug\netcoreapp1.1\08. Greater of Two Values.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\bin\Debug\netcoreapp1.1\08. Greater of Two Values.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\bin\Debug\netcoreapp1.1\08. Greater of Two Values.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\bin\Debug\netcoreapp1.1\08. Greater of Two Values.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\bin\Debug\netcoreapp1.1\08. Greater of Two Values.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\obj\Debug\netcoreapp1.1\08. Greater of Two Values.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\obj\Debug\netcoreapp1.1\08. Greater of Two Values.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\obj\Debug\netcoreapp1.1\08. Greater of Two Values.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\obj\Debug\netcoreapp1.1\08. Greater of Two Values.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\08. Greater of Two Values\obj\Debug\netcoreapp1.1\08. Greater of Two Values.csprojResolveAssemblyReference.cache

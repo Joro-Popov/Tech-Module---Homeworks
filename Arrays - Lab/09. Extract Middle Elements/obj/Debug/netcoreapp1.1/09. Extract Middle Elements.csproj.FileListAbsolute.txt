@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp1.1\09. Extract Middle Elements.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp1.1\09. Extract Middle Elements.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp1.1\09. Extract Middle Elements.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp1.1\09. Extract Middle Elements.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\bin\Debug\netcoreapp1.1\09. Extract Middle Elements.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp1.1\09. Extract Middle Elements.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp1.1\09. Extract Middle Elements.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp1.1\09. Extract Middle Elements.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\09. Extract Middle Elements\obj\Debug\netcoreapp1.1\09. Extract Middle Elements.pdb

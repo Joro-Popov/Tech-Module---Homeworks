@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp1.1\06. Reverse Array of Strings.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp1.1\06. Reverse Array of Strings.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp1.1\06. Reverse Array of Strings.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp1.1\06. Reverse Array of Strings.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\bin\Debug\netcoreapp1.1\06. Reverse Array of Strings.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp1.1\06. Reverse Array of Strings.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp1.1\06. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp1.1\06. Reverse Array of Strings.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp1.1\06. Reverse Array of Strings.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\06. Reverse Array of Strings\obj\Debug\netcoreapp1.1\06. Reverse Array of Strings.pdb

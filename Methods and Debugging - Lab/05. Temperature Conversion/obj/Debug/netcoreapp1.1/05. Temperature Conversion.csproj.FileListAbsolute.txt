@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\bin\Debug\netcoreapp1.1\05. Temperature Conversion.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\bin\Debug\netcoreapp1.1\05. Temperature Conversion.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\bin\Debug\netcoreapp1.1\05. Temperature Conversion.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\bin\Debug\netcoreapp1.1\05. Temperature Conversion.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\bin\Debug\netcoreapp1.1\05. Temperature Conversion.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\obj\Debug\netcoreapp1.1\05. Temperature Conversion.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\obj\Debug\netcoreapp1.1\05. Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\obj\Debug\netcoreapp1.1\05. Temperature Conversion.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\obj\Debug\netcoreapp1.1\05. Temperature Conversion.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\05. Temperature Conversion\obj\Debug\netcoreapp1.1\05. Temperature Conversion.pdb

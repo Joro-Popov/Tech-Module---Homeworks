@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp1.1\03. Last K Numbers Sums.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp1.1\03. Last K Numbers Sums.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp1.1\03. Last K Numbers Sums.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp1.1\03. Last K Numbers Sums.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\bin\Debug\netcoreapp1.1\03. Last K Numbers Sums.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp1.1\03. Last K Numbers Sums.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp1.1\03. Last K Numbers Sums.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp1.1\03. Last K Numbers Sums.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp1.1\03. Last K Numbers Sums.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Lab\03. Last K Numbers Sums\obj\Debug\netcoreapp1.1\03. Last K Numbers Sums.pdb

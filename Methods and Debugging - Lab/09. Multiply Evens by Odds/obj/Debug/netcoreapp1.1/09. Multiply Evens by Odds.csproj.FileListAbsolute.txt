@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp1.1\09. Multiply Evens by Odds.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp1.1\09. Multiply Evens by Odds.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp1.1\09. Multiply Evens by Odds.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp1.1\09. Multiply Evens by Odds.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\bin\Debug\netcoreapp1.1\09. Multiply Evens by Odds.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp1.1\09. Multiply Evens by Odds.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp1.1\09. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp1.1\09. Multiply Evens by Odds.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp1.1\09. Multiply Evens by Odds.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\09. Multiply Evens by Odds\obj\Debug\netcoreapp1.1\09. Multiply Evens by Odds.pdb

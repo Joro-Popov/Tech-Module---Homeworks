@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\bin\Debug\netcoreapp1.1\07. Math Power.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\bin\Debug\netcoreapp1.1\07. Math Power.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\bin\Debug\netcoreapp1.1\07. Math Power.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\bin\Debug\netcoreapp1.1\07. Math Power.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\bin\Debug\netcoreapp1.1\07. Math Power.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\obj\Debug\netcoreapp1.1\07. Math Power.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\obj\Debug\netcoreapp1.1\07. Math Power.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\obj\Debug\netcoreapp1.1\07. Math Power.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\07. Math Power\obj\Debug\netcoreapp1.1\07. Math Power.pdb

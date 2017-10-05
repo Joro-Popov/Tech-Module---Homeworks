@@ -1,0 +1,9 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp1.1\04. Draw a Filled Square.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp1.1\04. Draw a Filled Square.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp1.1\04. Draw a Filled Square.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp1.1\04. Draw a Filled Square.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\bin\Debug\netcoreapp1.1\04. Draw a Filled Square.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp1.1\04. Draw a Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp1.1\04. Draw a Filled Square.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp1.1\04. Draw a Filled Square.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Methods and Debugging - Lab\04. Draw a Filled Square\obj\Debug\netcoreapp1.1\04. Draw a Filled Square.pdb
