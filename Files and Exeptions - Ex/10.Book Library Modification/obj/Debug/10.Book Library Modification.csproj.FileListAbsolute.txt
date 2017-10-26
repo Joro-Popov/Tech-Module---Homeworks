@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\bin\Debug\10.Book Library Modification.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\bin\Debug\10.Book Library Modification.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\bin\Debug\10.Book Library Modification.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\obj\Debug\10.Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\obj\Debug\10.Book Library Modification.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\10.Book Library Modification\obj\Debug\10.Book Library Modification.pdb

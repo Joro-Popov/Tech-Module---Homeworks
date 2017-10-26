@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\bin\Debug\_06.User_Logs.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\obj\Debug\06. User Logs.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\obj\Debug\06. User Logs.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\obj\Debug\_06.User_Logs.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\06. User Logs\obj\Debug\_06.User_Logs.pdb

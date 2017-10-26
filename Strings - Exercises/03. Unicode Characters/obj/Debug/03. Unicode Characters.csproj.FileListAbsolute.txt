@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\bin\Debug\_03.Unicode_Characters.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\obj\Debug\_03.Unicode_Characters.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\03. Unicode Characters\obj\Debug\03. Unicode Characters.csprojResolveAssemblyReference.cache

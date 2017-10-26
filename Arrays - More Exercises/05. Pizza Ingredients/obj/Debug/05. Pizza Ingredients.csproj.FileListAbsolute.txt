@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\bin\Debug\_05.Pizza_Ingredients.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\obj\Debug\05. Pizza Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\05. Pizza Ingredients\obj\Debug\_05.Pizza_Ingredients.pdb

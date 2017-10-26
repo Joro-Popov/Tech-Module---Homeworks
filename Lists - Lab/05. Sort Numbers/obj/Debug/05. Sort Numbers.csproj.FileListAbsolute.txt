@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\bin\Debug\_05.Sort_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\05. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\05. Sort Numbers\obj\Debug\_05.Sort_Numbers.pdb

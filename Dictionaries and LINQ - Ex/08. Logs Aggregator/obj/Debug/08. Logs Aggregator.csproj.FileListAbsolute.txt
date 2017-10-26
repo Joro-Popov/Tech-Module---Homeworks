@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\bin\Debug\_08.Logs_Aggregator.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\obj\Debug\08. Logs Aggregator.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\08. Logs Aggregator\obj\Debug\_08.Logs_Aggregator.pdb

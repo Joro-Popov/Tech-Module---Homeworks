@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\bin\Debug\_07.Count_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\07. Count Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\07. Count Numbers\obj\Debug\_07.Count_Numbers.pdb

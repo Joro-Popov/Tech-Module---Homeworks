@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\bin\Debug\_02.Count_Substring_Occurrences.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\obj\Debug\02. Count Substring Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\02. Count Substring Occurrences\obj\Debug\_02.Count_Substring_Occurrences.pdb

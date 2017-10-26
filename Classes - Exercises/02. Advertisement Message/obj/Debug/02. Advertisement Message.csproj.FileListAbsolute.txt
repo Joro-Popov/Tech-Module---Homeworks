@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\bin\Debug\_02.Advertisement_Message.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\obj\Debug\_02.Advertisement_Message.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\02. Advertisement Message\obj\Debug\02. Advertisement Message.csprojResolveAssemblyReference.cache

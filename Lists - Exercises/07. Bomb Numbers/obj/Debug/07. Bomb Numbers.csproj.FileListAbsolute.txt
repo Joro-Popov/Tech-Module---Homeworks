@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\bin\Debug\_07.Bomb_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\07. Bomb Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\_07.Bomb_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\07. Bomb Numbers\obj\Debug\07. Bomb Numbers.csprojResolveAssemblyReference.cache

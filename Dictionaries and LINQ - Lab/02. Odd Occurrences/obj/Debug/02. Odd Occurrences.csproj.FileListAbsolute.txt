@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\bin\Debug\_02.Odd_Occurrences.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\obj\Debug\02. Odd Occurrences.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\02. Odd Occurrences\obj\Debug\_02.Odd_Occurrences.pdb

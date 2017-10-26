@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\bin\Debug\_02.Phonebook_Upgrade.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\obj\Debug\02. Phonebook Upgrade.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\02. Phonebook Upgrade\obj\Debug\_02.Phonebook_Upgrade.pdb

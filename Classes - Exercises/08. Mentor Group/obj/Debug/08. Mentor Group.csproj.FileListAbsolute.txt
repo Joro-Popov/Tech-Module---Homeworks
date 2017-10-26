@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\bin\Debug\_08.Mentor_Group.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\obj\Debug\08. Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\obj\Debug\08. Mentor Group.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\08. Mentor Group\obj\Debug\_08.Mentor_Group.pdb

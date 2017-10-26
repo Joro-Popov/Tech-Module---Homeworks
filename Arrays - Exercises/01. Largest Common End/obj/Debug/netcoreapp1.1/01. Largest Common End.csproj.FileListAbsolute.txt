@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\bin\Debug\netcoreapp1.1\01. Largest Common End.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\bin\Debug\netcoreapp1.1\01. Largest Common End.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\bin\Debug\netcoreapp1.1\01. Largest Common End.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\bin\Debug\netcoreapp1.1\01. Largest Common End.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\bin\Debug\netcoreapp1.1\01. Largest Common End.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\obj\Debug\netcoreapp1.1\01. Largest Common End.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\obj\Debug\netcoreapp1.1\01. Largest Common End.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\obj\Debug\netcoreapp1.1\01. Largest Common End.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\obj\Debug\netcoreapp1.1\01. Largest Common End.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\01. Largest Common End\obj\Debug\netcoreapp1.1\01. Largest Common End.pdb

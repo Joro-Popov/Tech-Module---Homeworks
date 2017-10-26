@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\bin\Debug\_02.Convert_from_base_N_to_base_10.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\obj\Debug\02. Convert from base-N to base-10.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\obj\Debug\02. Convert from base-N to base-10.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Exercises\02. Convert from base-N to base-10\obj\Debug\_02.Convert_from_base_N_to_base_10.pdb

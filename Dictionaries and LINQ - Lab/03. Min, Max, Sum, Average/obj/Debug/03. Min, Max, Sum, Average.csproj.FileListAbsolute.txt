@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\bin\Debug\_03.Min__Max__Sum__Average.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\03. Min, Max, Sum, Average.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Lab\03. Min, Max, Sum, Average\obj\Debug\_03.Min__Max__Sum__Average.pdb

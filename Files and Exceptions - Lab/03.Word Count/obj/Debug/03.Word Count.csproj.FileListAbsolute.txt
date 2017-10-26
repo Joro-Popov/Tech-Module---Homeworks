@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\bin\Debug\03.Word Count.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\bin\Debug\03.Word Count.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\bin\Debug\03.Word Count.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\obj\Debug\03.Word Count.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\obj\Debug\03.Word Count.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\obj\Debug\03.Word Count.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exceptions - Lab\03.Word Count\obj\Debug\03.Word Count.pdb

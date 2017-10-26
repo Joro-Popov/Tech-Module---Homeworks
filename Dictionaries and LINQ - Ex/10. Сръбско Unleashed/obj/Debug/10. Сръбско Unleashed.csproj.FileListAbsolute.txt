@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\bin\Debug\_10.Сръбско_Unleashed.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\10. Сръбско Unleashed.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\10. Сръбско Unleashed\obj\Debug\_10.Сръбско_Unleashed.pdb

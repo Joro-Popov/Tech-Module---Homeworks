@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\bin\Debug\_01.Sort_Times.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\obj\Debug\01. Sort Times.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\obj\Debug\01. Sort Times.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\obj\Debug\_01.Sort_Times.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\01. Sort Times\obj\Debug\_01.Sort_Times.pdb

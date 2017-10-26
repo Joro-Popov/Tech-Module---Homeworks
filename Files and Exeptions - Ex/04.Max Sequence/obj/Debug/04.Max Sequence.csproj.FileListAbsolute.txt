@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\bin\Debug\04.Max Sequence.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\bin\Debug\04.Max Sequence.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\bin\Debug\04.Max Sequence.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\obj\Debug\04.Max Sequence.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\obj\Debug\04.Max Sequence.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\obj\Debug\04.Max Sequence.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\04.Max Sequence\obj\Debug\04.Max Sequence.pdb

@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\bin\Debug\_11.Dragon_Army.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\bin\Debug\_11.Dragon_Army.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\obj\Debug\11. Dragon Army.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\obj\Debug\11. Dragon Army.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\obj\Debug\_11.Dragon_Army.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries and LINQ - Ex\11. Dragon Army\obj\Debug\_11.Dragon_Army.pdb

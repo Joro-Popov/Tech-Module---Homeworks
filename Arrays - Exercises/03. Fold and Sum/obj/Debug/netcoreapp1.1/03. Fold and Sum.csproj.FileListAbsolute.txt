@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\bin\Debug\netcoreapp1.1\03. Fold and Sum.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\03. Fold and Sum\obj\Debug\netcoreapp1.1\03. Fold and Sum.csprojResolveAssemblyReference.cache

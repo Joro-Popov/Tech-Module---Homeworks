@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\bin\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\04. Sieve of Eratosthenes\obj\Debug\netcoreapp1.1\04. Sieve of Eratosthenes.pdb

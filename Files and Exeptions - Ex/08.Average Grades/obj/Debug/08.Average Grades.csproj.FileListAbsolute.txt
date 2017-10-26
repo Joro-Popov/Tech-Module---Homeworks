@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\bin\Debug\08.Average Grades.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\bin\Debug\08.Average Grades.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\bin\Debug\08.Average Grades.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\obj\Debug\08.Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\obj\Debug\08.Average Grades.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\08.Average Grades\obj\Debug\08.Average Grades.pdb

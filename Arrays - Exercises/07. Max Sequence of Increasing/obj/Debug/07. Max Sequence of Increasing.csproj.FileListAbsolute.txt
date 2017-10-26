@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\bin\Debug\_07.Max_Sequence_of_Increasing.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\bin\Debug\_07.Max_Sequence_of_Increasing.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\bin\Debug\_07.Max_Sequence_of_Increasing.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\obj\Debug\07. Max Sequence of Increasing.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\obj\Debug\_07.Max_Sequence_of_Increasing.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\07. Max Sequence of Increasing\obj\Debug\_07.Max_Sequence_of_Increasing.pdb

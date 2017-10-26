@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\bin\Debug\_06.Sum_Reversed_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\06. Sum Reversed Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Exercises\06. Sum Reversed Numbers\obj\Debug\_06.Sum_Reversed_Numbers.pdb

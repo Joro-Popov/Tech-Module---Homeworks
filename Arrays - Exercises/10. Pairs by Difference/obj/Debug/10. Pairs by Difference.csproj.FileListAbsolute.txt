@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\obj\Debug\10. Pairs by Difference.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb

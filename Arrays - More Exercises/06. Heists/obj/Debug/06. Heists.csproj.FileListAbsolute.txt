@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\bin\Debug\_06.Heists.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\bin\Debug\_06.Heists.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\bin\Debug\_06.Heists.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\obj\Debug\06. Heists.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\obj\Debug\_06.Heists.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\06. Heists\obj\Debug\_06.Heists.pdb

@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\bin\Debug\_05.Miner_Task.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\bin\Debug\_05.Miner_Task.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\bin\Debug\_05.Miner_Task.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\obj\Debug\05. Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\obj\Debug\_05.Miner_Task.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\05. Miner Task\obj\Debug\_05.Miner_Task.pdb

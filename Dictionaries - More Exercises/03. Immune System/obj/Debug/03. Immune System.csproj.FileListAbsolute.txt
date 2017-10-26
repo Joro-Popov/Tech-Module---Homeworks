@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\bin\Debug\_03.Immune_System.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\bin\Debug\_03.Immune_System.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\bin\Debug\_03.Immune_System.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\obj\Debug\03. Immune System.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\obj\Debug\03. Immune System.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\obj\Debug\_03.Immune_System.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\03. Immune System\obj\Debug\_03.Immune_System.pdb

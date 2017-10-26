@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\bin\Debug\_03.Circles_Intersection.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\obj\Debug\03. Circles Intersection.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\03. Circles Intersection\obj\Debug\_03.Circles_Intersection.pdb

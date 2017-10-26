@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\bin\Debug\_09.Teamwork_Projects.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\obj\Debug\09. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\09. Teamwork Projects\obj\Debug\_09.Teamwork_Projects.pdb

@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\bin\Debug\_10.Student_Groups.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\obj\Debug\10. Student Groups.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\obj\Debug\10. Student Groups.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\obj\Debug\_10.Student_Groups.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\10. Student Groups\obj\Debug\_10.Student_Groups.pdb

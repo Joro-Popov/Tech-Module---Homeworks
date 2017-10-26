@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\obj\Debug\03. Safe Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

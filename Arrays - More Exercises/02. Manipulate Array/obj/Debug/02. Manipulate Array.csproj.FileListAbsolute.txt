@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb

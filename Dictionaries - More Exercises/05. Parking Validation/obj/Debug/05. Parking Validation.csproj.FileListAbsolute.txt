@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\bin\Debug\_05.Parking_Validation.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\obj\Debug\05. Parking Validation.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\obj\Debug\05. Parking Validation.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\obj\Debug\_05.Parking_Validation.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\05. Parking Validation\obj\Debug\_05.Parking_Validation.pdb

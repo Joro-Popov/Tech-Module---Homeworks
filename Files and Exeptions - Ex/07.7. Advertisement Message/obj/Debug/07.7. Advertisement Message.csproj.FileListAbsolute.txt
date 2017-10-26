@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\bin\Debug\_07._7.Advertisement_Message.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\bin\Debug\_07._7.Advertisement_Message.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\bin\Debug\_07._7.Advertisement_Message.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\obj\Debug\07.7. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\obj\Debug\_07._7.Advertisement_Message.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Files and Exeptions - Ex\07.7. Advertisement Message\obj\Debug\_07._7.Advertisement_Message.pdb

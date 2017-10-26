@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\bin\Debug\_02.Append_Lists.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\02. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\02. Append Lists\obj\Debug\_02.Append_Lists.pdb

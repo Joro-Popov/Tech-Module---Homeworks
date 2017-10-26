@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\bin\Debug\_06.Square_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\obj\Debug\06. Square Numbers.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\obj\Debug\_06.Square_Numbers.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Lists - Lab\06. Square Numbers\obj\Debug\06. Square Numbers.csprojResolveAssemblyReference.cache

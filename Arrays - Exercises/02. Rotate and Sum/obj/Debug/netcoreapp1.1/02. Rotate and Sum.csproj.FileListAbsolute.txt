@@ -1,0 +1,10 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp1.1\02. Rotate and Sum.deps.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp1.1\02. Rotate and Sum.runtimeconfig.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp1.1\02. Rotate and Sum.runtimeconfig.dev.json
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp1.1\02. Rotate and Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\bin\Debug\netcoreapp1.1\02. Rotate and Sum.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp1.1\02. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp1.1\02. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp1.1\02. Rotate and Sum.AssemblyInfo.cs
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp1.1\02. Rotate and Sum.dll
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - Exercises\02. Rotate and Sum\obj\Debug\netcoreapp1.1\02. Rotate and Sum.pdb

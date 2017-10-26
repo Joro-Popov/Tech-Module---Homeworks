@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\bin\Debug\_03.Text_Filter.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\obj\Debug\03. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\03. Text Filter\obj\Debug\_03.Text_Filter.pdb

@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Arrays - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.pdb

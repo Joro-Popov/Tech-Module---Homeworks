@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\bin\Debug\_02.Odd_Filter.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\obj\Debug\02. Odd Filter.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Dictionaries - More Exercises\02. Odd Filter\obj\Debug\_02.Odd_Filter.pdb

@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\bin\Debug\_04.Palindromes.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\bin\Debug\_04.Palindromes.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\obj\Debug\04. Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\obj\Debug\_04.Palindromes.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Strings - Lab\04. Palindromes\obj\Debug\_04.Palindromes.pdb

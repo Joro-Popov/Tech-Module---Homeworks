@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\bin\Debug\_06.Book_Library_Modification.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\obj\Debug\06. Book Library Modification.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\Classes - Exercises\06. Book Library Modification\obj\Debug\_06.Book_Library_Modification.pdb
