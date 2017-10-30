@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\bin\Debug\_04.Weather.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\bin\Debug\_04.Weather.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\bin\Debug\_04.Weather.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\obj\Debug\04. Weather.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\obj\Debug\04. Weather.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\obj\Debug\_04.Weather.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\04. Weather\obj\Debug\_04.Weather.pdb

@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\bin\Debug\_05.Key_Replacer.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\obj\Debug\05. Key Replacer.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\05. Key Replacer\obj\Debug\_05.Key_Replacer.pdb

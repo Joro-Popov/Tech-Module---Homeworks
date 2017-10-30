@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\bin\Debug\_02.Extract_Sentences_by_Keyword.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\obj\Debug\02. Extract Sentences by Keyword.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\02. Extract Sentences by Keyword\obj\Debug\_02.Extract_Sentences_by_Keyword.pdb

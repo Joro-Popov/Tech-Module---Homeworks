@@ -1,0 +1,6 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\bin\Debug\_04.Match_Dates.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\obj\Debug\04. Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\04. Match Dates\obj\Debug\_04.Match_Dates.pdb

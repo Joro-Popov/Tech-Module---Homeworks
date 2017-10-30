@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\bin\Debug\_01.Match_Full_Name.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\obj\Debug\01. Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\obj\Debug\01. Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\obj\Debug\_01.Match_Full_Name.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Lab\01. Match Full Name\obj\Debug\_01.Match_Full_Name.pdb

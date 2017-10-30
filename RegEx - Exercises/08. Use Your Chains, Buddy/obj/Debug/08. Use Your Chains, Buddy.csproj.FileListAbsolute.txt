@@ -1,0 +1,7 @@
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe.config
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\bin\Debug\_08.Use_Your_Chains__Buddy.pdb
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\obj\Debug\08. Use Your Chains, Buddy.csprojResolveAssemblyReference.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\obj\Debug\08. Use Your Chains, Buddy.csproj.CoreCompileInputs.cache
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.exe
+C:\Users\JORO\Desktop\Tech Module\Programming Fundamentals - September 2017\C# Projects\RegEx - Exercises\08. Use Your Chains, Buddy\obj\Debug\_08.Use_Your_Chains__Buddy.pdb
