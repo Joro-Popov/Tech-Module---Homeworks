@@ -1,0 +1,14 @@
+body{
+    background-color: gainsboro;
+}
+p{
+    font-size: 50px;
+}
+span.lang{
+    border: 1px solid lightgray;
+    border-radius: 15px;
+    margin: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: darkgray;
+}

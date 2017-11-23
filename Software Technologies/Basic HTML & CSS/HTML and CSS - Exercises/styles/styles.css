@@ -1,0 +1,52 @@
+
+p.Red{
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgray;
+    border: 3px solid red;
+    border-radius: 30px;
+}
+p.Green{
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgray;
+    border: 3px solid green;
+    border-radius: 30px;
+}
+p.Blue{
+    font-size: 40px;
+    text-align: center;
+    background-color: lightgray;
+    border: 3px solid blue;
+    border-radius: 30px;
+}
+#Red{
+    color: red;
+}
+#Green{
+    color: green;
+}
+#Blue {
+    color: blue;
+}
+.Outside{
+    border: 3px dotted;
+    border-radius: 10px;
+    border-color: blue;
+    padding: 30px;
+    margin: 30px;
+}
+.Middle{
+    border: 2px dashed;
+    border-radius: 10px;
+    border-color: red;
+    padding: 30px;
+}
+.Inner{
+    border: 2px dashed;
+    border-radius: 10px;
+    border-color: green;
+    padding: 30px;
+    text-align: center;
+    font-size: 60px;
+}
