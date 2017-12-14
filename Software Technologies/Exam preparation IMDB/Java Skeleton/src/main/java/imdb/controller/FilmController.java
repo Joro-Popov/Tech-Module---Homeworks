@@ -3,6 +3,7 @@ package imdb.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.validation.BindingResult;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
@@ -10,6 +11,7 @@ import imdb.bindingModel.FilmBindingModel;
 import imdb.entity.Film;
 import imdb.repository.FilmRepository;
 
+import javax.validation.Valid;
 import java.util.List;
 
 @Controller
@@ -27,8 +29,8 @@ public class FilmController {
 
 		List<Film> films = this.filmRepository.findAll();
 
-		model.addAttribute("view", "film/index");
 		model.addAttribute("films", films);
+		model.addAttribute("view", "film/index");
 
 		return "base-layout";
 	}
@@ -36,21 +38,22 @@ public class FilmController {
 	@GetMapping("/create")
 	public String create(Model model) {
 
+	    model.addAttribute("film", new FilmBindingModel());
 		model.addAttribute("view","film/create" );
 
 		return "base-layout";
 	}
 
 	@PostMapping("/create")
-	public String createProcess(Model model, FilmBindingModel filmBindingModel) {
+	public String createProcess(Model model,
+                                @Valid FilmBindingModel filmBindingModel) {
 
-		Film filmEntity = new Film(
+		Film filmEntity = new Film();
 
-		filmBindingModel.getName(),
-		filmBindingModel.getGenre(),
-		filmBindingModel.getDirector(),
-		filmBindingModel.getYear()
-		);
+	    filmEntity.setName(filmBindingModel.getName());
+	    filmEntity.setGenre(filmBindingModel.getGenre());
+	    filmEntity.setDirector(filmBindingModel.getDirector());
+	    filmEntity.setYear(filmBindingModel.getYear());
 
 		this.filmRepository.saveAndFlush(filmEntity);
 
@@ -67,14 +70,16 @@ public class FilmController {
 			return "redirect:/";
 		}
 
+        model.addAttribute("film", filmEntity);
 		model.addAttribute("view", "film/edit");
-		model.addAttribute("film", filmEntity);
 
 		return "base-layout";
 	}
 
 	@PostMapping("/edit/{id}")
-	public String editProcess(Model model, @PathVariable int id, FilmBindingModel filmBindingModel) {
+	public String editProcess(Model model,
+                              @PathVariable int id,
+                              FilmBindingModel filmBindingModel) {
 
 		Film filmEntity = this.filmRepository.findOne(id);
 
@@ -103,8 +108,8 @@ public class FilmController {
 			return "redirect:/";
 		}
 
+        model.addAttribute("film", filmEntity);
 		model.addAttribute("view", "film/delete");
-		model.addAttribute("film", filmEntity);
 
 		return "base-layout";
 	}
@@ -120,6 +125,7 @@ public class FilmController {
 		}
 
 		this.filmRepository.delete(filmEntity);
+		this.filmRepository.flush();
 
 		return "redirect:/";
 	}

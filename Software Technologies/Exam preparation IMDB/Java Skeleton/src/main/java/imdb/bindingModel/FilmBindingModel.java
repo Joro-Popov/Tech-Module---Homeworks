@@ -1,10 +1,23 @@
 package imdb.bindingModel;
 
+import javax.validation.constraints.NotNull;
+import javax.validation.constraints.Size;
+
 public class FilmBindingModel {
 
+    @NotNull
+    @Size(min = 1)
     private String name;
+
+    @NotNull
+    @Size(min = 1)
     private String genre;
+
+    @NotNull
+    @Size(min = 1)
     private String director;
+
+
     private Integer year;
 
     public FilmBindingModel() {

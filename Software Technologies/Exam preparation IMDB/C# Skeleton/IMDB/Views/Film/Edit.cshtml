@@ -14,13 +14,13 @@
             @Html.AntiForgeryToken()
 
             <label for="name">Name</label>
-            <input type="text" id="name" value="@Model.Name" name="name">
+            <input type="text" id="name" value="@Model.Name" name="name" required="required">
             <label for="genre">Genre</label>
-            <input type="text" id="genre" value="@Model.Genre" name="genre">
+            <input type="text" id="genre" value="@Model.Genre" name="genre" required="required">
             <label for="director">Director</label>
-            <input type="text" id="director" value="@Model.Director" name="director">
+            <input type="text" id="director" value="@Model.Director" name="director" required="required">
             <label for="year">Year</label>
-            <input type="text" id="year" value="@Model.Year" name="year">
+            <input type="number" id="year" value="@Model.Year" name="year" required="required">
             <button type="submit" class="accept">Edit</button>
             <button onclick="location.href='/';return false;" class="cancel">Cancel</button>
         }

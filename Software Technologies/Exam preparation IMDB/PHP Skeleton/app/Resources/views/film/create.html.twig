@@ -6,13 +6,13 @@
     <form method="POST">
         <div>
             <label for="name">Name</label>
-            <input type="text" id="name" name="film[name]" />
+            <input type="text" id="name" name="film[name]" required="required"/>
             <label for="genre">Genre</label>
-            <input type="text" id="genre" name="film[genre]" />
+            <input type="text" id="genre" name="film[genre]" required="required"/>
             <label for="director">Director</label>
-            <input type="text" id="director" name="film[director]" />
+            <input type="text" id="director" name="film[director]" required="required"/>
             <label for="year">Year</label>
-            <input type="text" id="year" name="film[year]" />
+            <input type="number" id="year" name="film[year]" required="required"/>
 
             {{ form_row(form._token) }}
 

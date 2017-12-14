@@ -3,13 +3,13 @@
     <form th:action="@{/create}" method="POST">
         <div>
             <label for="name">Name</label>
-            <input type="text" id="name" name="name" />
+            <input type="text" id="name" name="name" required="required"/>
             <label for="genre">Genre</label>
-            <input type="text" id="genre" name="genre" />
+            <input type="text" id="genre" name="genre" required="required"/>
             <label for="director">Director</label>
-            <input type="text" id="director" name="director" />
+            <input type="text" id="director" name="director" required="required"/>
             <label for="year">Year</label>
-            <input type="text" id="year" name="year" />
+            <input type="number" id="year" name="year" required="required"/>
             <button class="accept" type="submit">Create</button>
             <button type="button" th:onclick="'location.href = \'' + @{/} + '\''" class="cancel">Cancel</button>
         </div>
