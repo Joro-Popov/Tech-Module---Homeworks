@@ -8,14 +8,17 @@ namespace IMDB.Controllers
     [ValidateInput(false)]
     public class FilmController : Controller
     {
-        private IMDBDbContext database = new IMDBDbContext();
+       
 
         [HttpGet]
         [Route("")]
         public ActionResult Index()
         {
-            var films = database.Films.ToList();
-            return View(films);
+            using (var database = new IMDBDbContext())
+            {
+                var films = database.Films.ToList();
+                return View(films);
+            }
         }
 
         [HttpGet]
@@ -32,9 +35,12 @@ namespace IMDB.Controllers
         {
             if (ModelState.IsValid)
             {
-                database.Films.Add(film);
-                database.SaveChanges();
-                return Redirect("/");
+                using (var database = new IMDBDbContext())
+                {
+                    database.Films.Add(film);
+                    database.SaveChanges();
+                    return Redirect("/");
+                }
             }
 
             return View();
@@ -44,14 +50,17 @@ namespace IMDB.Controllers
         [Route("edit/{id}")]
         public ActionResult Edit(int? id)
         {
-            var film = database.Films.Find(id);
-
-            if (film == null)
+            using (var database = new IMDBDbContext())
             {
-                return HttpNotFound();
-            }
+                var film = database.Films.Find(id);
 
-            return View(film);
+                if (film == null)
+                {
+                    return HttpNotFound();
+                }
+
+                return View(film);
+            }
         }
 
         [HttpPost]
@@ -59,35 +68,41 @@ namespace IMDB.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult EditConfirm(int? id, Film filmModel)
         {
-            var film = database.Films.Find(filmModel.Id);
-
-            if (ModelState.IsValid)
+            using (var database = new IMDBDbContext())
             {
-                film.Name = filmModel.Name;
-                film.Genre = filmModel.Genre;
-                film.Director = filmModel.Director;
-                film.Year = filmModel.Year;
+                var film = database.Films.Find(filmModel.Id);
 
-                database.SaveChanges();
+                if (ModelState.IsValid)
+                {
+                    film.Name = filmModel.Name;
+                    film.Genre = filmModel.Genre;
+                    film.Director = filmModel.Director;
+                    film.Year = filmModel.Year;
 
-                return Redirect("/");
-            }
+                    database.SaveChanges();
 
-            return View("Edit", filmModel);
+                    return Redirect("/");
+                }
+
+                return View("Edit", filmModel);
+            }  
         }
 
         [HttpGet]
         [Route("delete/{id}")]
         public ActionResult Delete(int? id)
         {
-            var film = database.Films.Find(id);
-
-            if (film == null)
+            using (var database = new IMDBDbContext())
             {
-                return HttpNotFound();
-            }
+                var film = database.Films.Find(id);
 
-            return View(film);
+                if (film == null)
+                {
+                    return HttpNotFound();
+                }
+
+                return View(film);
+            }
         }
 
         [HttpPost]
@@ -95,17 +110,20 @@ namespace IMDB.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirm(int? id, Film filmModel)
         {
-            var film = database.Films.Find(id);
-
-            if (film == null)
+            using (var database = new IMDBDbContext())
             {
-                return HttpNotFound();
+                var film = database.Films.Find(id);
+
+                if (film == null)
+                {
+                    return HttpNotFound();
+                }
+
+                database.Films.Remove(film);
+                database.SaveChanges();
+
+                return Redirect("/");
             }
-
-            database.Films.Remove(film);
-            database.SaveChanges();
-
-            return Redirect("/");
         }
     }
 }
